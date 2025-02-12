@@ -1,5 +1,5 @@
-# web-application-101
-Handson materials of tutorial for Web application development
+# webapp-101
+Handson materials of tutorial for Web application development 101
 
 ## Table of Contents
 
